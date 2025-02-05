@@ -12,6 +12,10 @@ Make example for this keyboard (after setting up your build environment):
 
     make siderakb/ergosnm/rev2:default
 
+Or make vial firmware:
+
+    make siderakb/ergosnm/rev2:vial
+
 Flashing example for this keyboard:
 
     make siderakb/ergosnm/rev2:default:flash
