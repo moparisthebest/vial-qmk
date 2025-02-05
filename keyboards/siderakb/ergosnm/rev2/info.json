@@ -4,6 +4,14 @@
     "pid": "0xE200",
     "device_version": "2.2.0"
   },
+  "features": {
+    "encoder": true
+  },
+  "encoder": {
+    "rotary": [
+      { "pin_a": "GP23", "pin_b": "GP18", "resolution": 4 }
+    ]
+  },
   "layouts": {
     "LAYOUT": {
       "layout": [
