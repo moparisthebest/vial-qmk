@@ -133,6 +133,10 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 }
 
 void led_set_user(uint8_t usb_led) {
+    // USB_LED_NUM_LOCK and friends were removed in:
+    // https://github.com/qmk/qmk_firmware/pull/21424/files
+    // but this doesn't do anythnig anyway so just comment out
+    /*
     if (usb_led & (1 << USB_LED_NUM_LOCK)) {
     } else {
     }
@@ -152,4 +156,5 @@ void led_set_user(uint8_t usb_led) {
     if (usb_led & (1 << USB_LED_KANA)) {
     } else {
     }
+    */
 }
