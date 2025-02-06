@@ -21,8 +21,6 @@
 
 #define XXX KC_NO
 
-#if defined(KEYBOARD_siderakb_ergosnm_rev2)
-#    include "rev2.h"
-#elif defined(KEYBOARD_siderakb_ergosnm_rev3)
+#if defined(KEYBOARD_siderakb_ergosnm_rev3)
 #    include "rev3.h"
 #endif
