@@ -22,3 +22,7 @@
 
 //#define BOOTMAGIC_ROW_RIGHT 6
 //#define BOOTMAGIC_COLUMN_RIGHT 0
+
+/* raised limits */
+#define DYNAMIC_KEYMAP_LAYER_COUNT 13
+#define VIAL_KEY_OVERRIDE_ENTRIES 64
