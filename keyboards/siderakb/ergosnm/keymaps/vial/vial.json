@@ -1,5 +1,22 @@
 {
   "name": "ErgoSNM",
+  "customKeycodes": [
+    {
+      "name": "L0_LCTL",
+      "title": "Layer 0 LCtrl",
+      "shortName": "L0(LCtrl)"
+    },
+    {
+      "name": "L0_LGUI",
+      "title": "Layer 0 LGui",
+      "shortName": "L0(LGui)"
+    },
+    {
+      "name": "L0_LALT",
+      "title": "Layer 0 LAlt",
+      "shortName": "L0(LAlt)"
+    }
+  ],
   "matrix": {
     "rows": 12,
     "cols": 8

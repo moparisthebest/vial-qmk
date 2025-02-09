@@ -144,13 +144,49 @@ report_mouse_t pointing_device_task_user(report_mouse_t mouse_report) {
     return mouse_report;
 }
 
-bool process_record_user(uint16_t keycode, keyrecord_t *record) {
-    if (record->event.pressed && (keycode == DRAG_SCROLL || keycode == KC_MS_BTN3)) {
-        set_scrolling = true;
-    } else {
-        set_scrolling = false;
-    }
+enum layer0_keycode {
+    L0_LCTL = QK_KB_0,
+    L0_LGUI,
+    L0_LALT,
+};
 
+uint8_t layer0_state = 0;
+layer_state_t layer0_saved_state;
+
+bool process_record_user(uint16_t keycode, keyrecord_t *record) {
+    switch (keycode) {
+        case DRAG_SCROLL:
+        case KC_MS_BTN3:
+            set_scrolling = record->event.pressed;
+            return true;
+        case L0_LCTL:
+        case L0_LGUI:
+        case L0_LALT:
+            uint8_t code = KC_LCTL;
+            switch (keycode) {
+                case L0_LGUI:
+                    code = KC_LGUI;
+                    break;
+                case L0_LALT:
+                    code = KC_LALT;
+            }
+
+            if (record->event.pressed) {
+                if (layer0_state == 0) {
+                    layer0_saved_state = layer_state;
+                    layer_move(0);
+                }
+                ++layer0_state;
+                register_code(code);
+            } else {
+                unregister_code(code);
+                --layer0_state;
+                if (layer0_state == 0) {
+                    layer_state_set(layer0_saved_state);
+                }
+            }
+            return false;
+    }
     return true;
 }
 
