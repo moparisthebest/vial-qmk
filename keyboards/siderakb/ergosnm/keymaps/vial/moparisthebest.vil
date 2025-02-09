@@ -1,0 +1,2746 @@
+{
+    "version": 1,
+    "uid": 753989900494525582,
+    "layout": [
+        [
+            [
+                "KC_GESC",
+                "KC_1",
+                "KC_2",
+                "KC_3",
+                "KC_4",
+                "KC_5",
+                -1,
+                -1
+            ],
+            [
+                "KC_TAB",
+                "KC_Q",
+                "KC_W",
+                "KC_E",
+                "KC_R",
+                "KC_T",
+                -1,
+                -1
+            ],
+            [
+                "KC_CAPSLOCK",
+                "KC_A",
+                "KC_S",
+                "KC_D",
+                "KC_F",
+                "KC_G",
+                -1,
+                -1
+            ],
+            [
+                "KC_LSHIFT",
+                "KC_Z",
+                "KC_X",
+                "KC_C",
+                "KC_V",
+                "KC_B",
+                -1,
+                -1
+            ],
+            [
+                "KC_LCTRL",
+                "KC_LGUI",
+                "KC_LALT",
+                "KC_MINUS",
+                "KC_EQUAL",
+                "KC_BTN1",
+                "KC_BTN2",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_SPACE",
+                "KC_BTN3",
+                "TG(1)"
+            ],
+            [
+                "KC_BSPACE",
+                "KC_0",
+                "KC_9",
+                "KC_8",
+                "KC_7",
+                "KC_6",
+                -1,
+                -1
+            ],
+            [
+                "KC_BSLASH",
+                "KC_P",
+                "KC_O",
+                "KC_I",
+                "KC_U",
+                "KC_Y",
+                -1,
+                -1
+            ],
+            [
+                "KC_QUOTE",
+                "KC_SCOLON",
+                "KC_L",
+                "KC_K",
+                "KC_J",
+                "KC_H",
+                -1,
+                -1
+            ],
+            [
+                "KC_ENTER",
+                "KC_SLASH",
+                "KC_DOT",
+                "KC_COMMA",
+                "KC_M",
+                "KC_N",
+                -1,
+                -1
+            ],
+            [
+                "KC_RSHIFT",
+                "TO(3)",
+                "KC_F12",
+                "KC_RBRACKET",
+                "KC_LBRACKET",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_QUOTE",
+                "KC_COMMA",
+                "KC_DOT",
+                "KC_P",
+                "KC_Y",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_A",
+                "KC_O",
+                "KC_E",
+                "KC_U",
+                "KC_I",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_SCOLON",
+                "KC_Q",
+                "KC_J",
+                "KC_K",
+                "KC_X",
+                -1,
+                -1
+            ],
+            [
+                "USER00",
+                "USER01",
+                "USER02",
+                "KC_LBRACKET",
+                "KC_RBRACKET",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "TG(2)"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_BSLASH",
+                "KC_L",
+                "KC_R",
+                "KC_C",
+                "KC_G",
+                "KC_F",
+                -1,
+                -1
+            ],
+            [
+                "KC_MINUS",
+                "KC_S",
+                "KC_N",
+                "KC_T",
+                "KC_H",
+                "KC_D",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_Z",
+                "KC_V",
+                "KC_W",
+                "KC_M",
+                "KC_B",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_EQUAL",
+                "KC_SLASH",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_1",
+                "KC_2",
+                "KC_3",
+                "KC_4",
+                "KC_5",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_LBRACKET",
+                "KC_RBRACKET",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "TO(0)"
+            ],
+            [
+                "KC_TRNS",
+                "KC_0",
+                "KC_9",
+                "KC_8",
+                "KC_7",
+                "KC_6",
+                -1,
+                -1
+            ],
+            [
+                "KC_BSLASH",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_EQUAL",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_F1",
+                "KC_F2",
+                "KC_F3",
+                "KC_F4",
+                "KC_F5",
+                "KC_F6",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_NO",
+                "KC_NO",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "TO(4)"
+            ],
+            [
+                "KC_F12",
+                "KC_F11",
+                "KC_F10",
+                "KC_F9",
+                "KC_F8",
+                "KC_F7",
+                -1,
+                -1
+            ],
+            [
+                "KC_BSPACE",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                "KC_NO",
+                -1,
+                -1
+            ],
+            [
+                "KC_DELETE",
+                "KC_RIGHT",
+                "KC_UP",
+                "KC_DOWN",
+                "KC_LEFT",
+                "KC_INSERT",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_NO",
+                "KC_PGUP",
+                "KC_PGDOWN",
+                "KC_NO",
+                "KC_NO",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "TO(0)",
+                "KC_TRNS",
+                "KC_NO",
+                "KC_NO",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "TO(5)"
+            ],
+            [
+                "TO(3)",
+                "KC_KP_MINUS",
+                "KC_KP_ASTERISK",
+                "KC_KP_SLASH",
+                "KC_NUMLOCK",
+                "KC_PSCREEN",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_KP_PLUS",
+                "KC_KP_9",
+                "KC_KP_8",
+                "KC_KP_7",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_KP_PLUS",
+                "KC_KP_6",
+                "KC_KP_5",
+                "KC_KP_4",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_KP_ENTER",
+                "KC_KP_3",
+                "KC_KP_2",
+                "KC_KP_1",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_KP_ENTER",
+                "KC_KP_DOT",
+                "KC_KP_0",
+                "KC_KP_0",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "TO(0)"
+            ],
+            [
+                "KC_PAUSE",
+                "KC_SCROLLLOCK",
+                "KC_PSCREEN",
+                "KC_TRNS",
+                "KC_MS_L",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_PGUP",
+                "KC_HOME",
+                "KC_INSERT",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_PGDOWN",
+                "KC_END",
+                "KC_DELETE",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "TO(0)",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                -1,
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ]
+    ],
+    "encoder_layout": [
+        [
+            [
+                "KC_VOLD",
+                "KC_VOLU"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_BRID",
+                "KC_BRIU"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ]
+    ],
+    "layout_options": -1,
+    "macro": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "vial_protocol": 6,
+    "via_protocol": 9,
+    "tap_dance": [
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            200
+        ]
+    ],
+    "combo": [
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ],
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
+        ]
+    ],
+    "key_override": [
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_2",
+            "replacement": "KC_LBRACKET",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_2",
+            "replacement": "KC_2",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_3",
+            "replacement": "LSFT(KC_LBRACKET)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_3",
+            "replacement": "KC_3",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_4",
+            "replacement": "LSFT(KC_RBRACKET)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_4",
+            "replacement": "KC_4",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_5",
+            "replacement": "LSFT(KC_9)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_5",
+            "replacement": "KC_5",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_6",
+            "replacement": "LSFT(KC_2)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_6",
+            "replacement": "KC_6",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_7",
+            "replacement": "LSFT(KC_8)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_7",
+            "replacement": "KC_7",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_8",
+            "replacement": "LSFT(KC_0)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_8",
+            "replacement": "KC_8",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_9",
+            "replacement": "LSFT(KC_EQUAL)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_9",
+            "replacement": "KC_9",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_0",
+            "replacement": "KC_RBRACKET",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_0",
+            "replacement": "KC_0",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_LBRACKET",
+            "replacement": "LSFT(KC_1)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_LBRACKET",
+            "replacement": "LSFT(KC_5)",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_RBRACKET",
+            "replacement": "LSFT(KC_3)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_RBRACKET",
+            "replacement": "KC_GRAVE",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_BSLASH",
+            "replacement": "LSFT(KC_BSLASH)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_BSLASH",
+            "replacement": "KC_BSLASH",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 131
+        },
+        {
+            "trigger": "KC_EQUAL",
+            "replacement": "KC_6",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 131
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "LSFT(KC_7)",
+            "layers": 4,
+            "trigger_mods": 0,
+            "negative_mod_mask": 34,
+            "suppressed_mods": 0,
+            "options": 3
+        },
+        {
+            "trigger": "KC_1",
+            "replacement": "KC_1",
+            "layers": 4,
+            "trigger_mods": 34,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 34,
+            "options": 3
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        },
+        {
+            "trigger": "KC_NO",
+            "replacement": "KC_NO",
+            "layers": 65535,
+            "trigger_mods": 0,
+            "negative_mod_mask": 0,
+            "suppressed_mods": 0,
+            "options": 7
+        }
+    ],
+    "settings": {
+        "1": 0,
+        "2": 50,
+        "3": 0,
+        "4": 175,
+        "5": 5,
+        "6": 5000,
+        "7": 200,
+        "8": 0,
+        "9": 10,
+        "10": 20,
+        "11": 8,
+        "12": 10,
+        "13": 30,
+        "14": 10,
+        "15": 80,
+        "16": 8,
+        "17": 40,
+        "18": 0,
+        "19": 80,
+        "20": 5,
+        "21": 128
+    }
+}
