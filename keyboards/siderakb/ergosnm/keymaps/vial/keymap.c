@@ -167,6 +167,7 @@ enum layer0_keycode {
     MOUSE_CPI_UP,
     MOUSE_CPI_DOWN,
     MOUSE_SCROLL,
+    SC_LEFT_SHIFT_F9,
 };
 
 uint8_t layer0_state = 0;
@@ -247,6 +248,16 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
                 }
             }
             return false;
+        case SC_LEFT_SHIFT_F9: {
+            perform_space_cadet(record, keycode, KC_LEFT_SHIFT, KC_TRANSPARENT, KC_F9);
+            return false;
+        }
+        default: {
+            if (record->event.pressed) {
+                reset_space_cadet();
+            }
+            break;
+        }
     }
     return true;
 }

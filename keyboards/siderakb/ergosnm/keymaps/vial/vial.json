@@ -120,6 +120,11 @@
       "name": "MOUSE_SCROLL",
       "title": "Mouse Scroll",
       "shortName": "Mouse\nScroll"
+    },
+    {
+      "name": "SC_LEFT_SHIFT_F9",
+      "title": "Left Shift F9",
+      "shortName": "LShift\nF9"
     }
   ],
   "matrix": {
