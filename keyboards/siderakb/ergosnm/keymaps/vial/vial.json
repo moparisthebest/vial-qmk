@@ -4,17 +4,122 @@
     {
       "name": "L0_LCTL",
       "title": "Layer 0 LCtrl",
-      "shortName": "L0(LCtrl)"
+      "shortName": "L0\nLCtrl"
     },
     {
       "name": "L0_LGUI",
       "title": "Layer 0 LGui",
-      "shortName": "L0(LGui)"
+      "shortName": "L0\nLGui"
     },
     {
       "name": "L0_LALT",
       "title": "Layer 0 LAlt",
-      "shortName": "L0(LAlt)"
+      "shortName": "L0\nLAlt"
+    },
+    {
+      "name": "MOUSE_SCROLLLOCK",
+      "title": "Mouse Scroll Lock",
+      "shortName": "Mouse\nScrlLck"
+    },
+    {
+      "name": "UPDV_DLR_TLD",
+      "title": "Unix Programmers Dvorak $ ~",
+      "shortName": "~\n$"
+    },
+    {
+      "name": "UPDV_AMPR_1",
+      "title": "Unix Programmers Dvorak & 1",
+      "shortName": "1\n&"
+    },
+    {
+      "name": "UPDV_LBR_2",
+      "title": "Unix Programmers Dvorak [ 2",
+      "shortName": "2\n["
+    },
+    {
+      "name": "UPDV_LCBR_3",
+      "title": "Unix Programmers Dvorak { 3",
+      "shortName": "3\n{"
+    },
+    {
+      "name": "UPDV_RCBR_4",
+      "title": "Unix Programmers Dvorak } 4",
+      "shortName": "4\n}"
+    },
+    {
+      "name": "UPDV_LPRN_5",
+      "title": "Unix Programmers Dvorak ( 5",
+      "shortName": "5\n("
+    },
+    {
+      "name": "UPDV_AT_6",
+      "title": "Unix Programmers Dvorak @ 6",
+      "shortName": "6\n@"
+    },
+    {
+      "name": "UPDV_ASTR_7",
+      "title": "Unix Programmers Dvorak * 7",
+      "shortName": "7\n*"
+    },
+    {
+      "name": "UPDV_RPRN_8",
+      "title": "Unix Programmers Dvorak ) 8",
+      "shortName": "8\n)"
+    },
+    {
+      "name": "UPDV_PLUS_9",
+      "title": "Unix Programmers Dvorak + 9",
+      "shortName": "9\n+"
+    },
+    {
+      "name": "UPDV_RBR_0",
+      "title": "Unix Programmers Dvorak ] 0",
+      "shortName": "0\n]"
+    },
+    {
+      "name": "UPDV_EXLM_PERC",
+      "title": "Unix Programmers Dvorak ! %",
+      "shortName": "%\n!"
+    },
+    {
+      "name": "UPDV_HASH_GRAVE",
+      "title": "Unix Programmers Dvorak # `",
+      "shortName": "`\n#"
+    },
+    {
+      "name": "UPDV_EQUAL_CIRC",
+      "title": "Unix Programmers Dvorak = ^",
+      "shortName": "^\n="
+    },
+    {
+      "name": "UPDV_PIPE_BSLASH",
+      "title": "Unix Programmers Dvorak | \\",
+      "shortName": "\\\n|"
+    },
+    {
+      "name": "UPDV_PIPE_QUES",
+      "title": "Unix Programmers Dvorak | ?",
+      "shortName": "?\n|"
+    },
+    {
+      "name": "UPDV_SLASH_BSLASH",
+      "title": "Unix Programmers Dvorak / \\",
+      "shortName": "\\\n/"
+    },
+    {
+      "name": "MOUSE_CPI_UP",
+      "title": "Mouse CPI +",
+      "shortName": "MCPI +"
+    },
+    {
+      "name": "MOUSE_CPI_DOWN",
+      "title": "Mouse CPI -",
+      "shortName": "MCPI -"
+    },
+    {
+      "name": "MOUSE_SCROLL",
+      "title": "Mouse Scroll",
+      "shortName": "Mouse\nScroll"
     }
   ],
   "matrix": {

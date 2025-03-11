@@ -76,8 +76,6 @@ void matrix_init_user(void) {}
 void matrix_scan_user(void) {}
 
 /* Use the mouse movement to scroll instead of moving the cursor. */
-#define DRAG_SCROLL MO(1)
-
 #define TRACKBALL_SCROLL_INVERT_V
 // #define TRACKBALL_SCROLL_INVERT_H
 // #define TRACKBALL_SCROLL_SWAP
@@ -148,17 +146,80 @@ enum layer0_keycode {
     L0_LCTL = QK_KB_0,
     L0_LGUI,
     L0_LALT,
+    MOUSE_SCROLLLOCK,
+    UPDV_DLR_TLD,
+    UPDV_AMPR_1,
+    UPDV_LBR_2,
+    UPDV_LCBR_3,
+    UPDV_RCBR_4,
+    UPDV_LPRN_5,
+    UPDV_AT_6,
+    UPDV_ASTR_7,
+    UPDV_RPRN_8,
+    UPDV_PLUS_9,
+    UPDV_RBR_0,
+    UPDV_EXLM_PERC,
+    UPDV_HASH_GRAVE,
+    UPDV_EQUAL_CIRC,
+    UPDV_PIPE_BSLASH,
+    UPDV_PIPE_QUES,
+    UPDV_SLASH_BSLASH,
+    MOUSE_CPI_UP,
+    MOUSE_CPI_DOWN,
+    MOUSE_SCROLL,
 };
 
 uint8_t layer0_state = 0;
 layer_state_t layer0_saved_state;
 
+// The CPI range is 100-12000, in increments of 100. Defaults to 1600 CPI.
+#define MOUSE_CPI_INC 100
+#define MOUSE_CPI_MIN 100
+#define MOUSE_CPI_MAX 12000
+uint16_t mouse_cpi = PMW33XX_CPI;
+
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
+#ifdef CONSOLE_ENABLE
+    uprintf("KL: kc: 0x%04X, col: %2u, row: %2u, pressed: %u, time: %5u, int: %u, count: %u\n", keycode, record->event.key.col, record->event.key.row, record->event.pressed, record->event.time, record->tap.interrupted, record->tap.count);
+#endif
     switch (keycode) {
-        case DRAG_SCROLL:
+        case MOUSE_SCROLL:
         case KC_MS_BTN3:
             set_scrolling = record->event.pressed;
             return true;
+        case MOUSE_SCROLLLOCK:
+            if (record->event.pressed) {
+                set_scrolling = !set_scrolling;
+            }
+            return false;
+        case MOUSE_CPI_UP:
+            if (!record->event.pressed) {
+                // only do anything on press
+                return false;
+            }
+            mouse_cpi += MOUSE_CPI_INC;
+            if (mouse_cpi > MOUSE_CPI_MAX) {
+                mouse_cpi = MOUSE_CPI_MAX;
+            }
+#ifdef CONSOLE_ENABLE
+            uprintf("setting mouse cpi: %5u\n", mouse_cpi);
+#endif
+            pointing_device_set_cpi(mouse_cpi);
+            return false;
+        case MOUSE_CPI_DOWN:
+            if (!record->event.pressed) {
+                // only do anything on press
+                return false;
+            }
+            mouse_cpi -= MOUSE_CPI_INC;
+            if (mouse_cpi < MOUSE_CPI_MIN) {
+                mouse_cpi = MOUSE_CPI_MIN;
+            }
+#ifdef CONSOLE_ENABLE
+            uprintf("setting mouse cpi: %5u\n", mouse_cpi);
+#endif
+            pointing_device_set_cpi(mouse_cpi);
+            return false;
         case L0_LCTL:
         case L0_LGUI:
         case L0_LALT:
@@ -189,6 +250,24 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     }
     return true;
 }
+
+void keyboard_post_init_user(void) {
+    // layer 2 as default
+    layer_move(2);
+    // get current CPI todo: this always returns 0 here...
+    //mouse_cpi = pointing_device_get_cpi();
+#ifdef CONSOLE_ENABLE
+    uprintf("initial mouse cpi: %5u\n", mouse_cpi);
+#endif
+}
+
+#ifdef CONSOLE_ENABLE
+layer_state_t layer_state_set_user(layer_state_t state) {
+    uint8_t current_layer = get_highest_layer(layer_state);
+    uprintf("layer changed: state: %5u, current_layer: %u\n", state, current_layer);
+    return state;
+}
+#endif
 
 void led_set_user(uint8_t usb_led) {
     // USB_LED_NUM_LOCK and friends were removed in:
